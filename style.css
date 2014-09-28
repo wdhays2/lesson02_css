@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+
+#repos {
+  width: 50%;
+}
+
+td.username {
+  background-color: #999999;
+}
+
+td.repo_name {
+  background-color: #aaaaaa;
+}
+
+td.active_repo {
+  color: #009900;
+}
+
+td.inactive_repo {
+  color: #990000;
+}

@@ -1,4 +1,4 @@
-# Lesson 1 - CSS setup
+# Lesson 2 - CSS setup
 
 ## What is CSS
 
