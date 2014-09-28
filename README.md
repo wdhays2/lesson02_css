@@ -1,7 +1,7 @@
-# Lesson 1 - HTML setup
+# Lesson 1 - CSS setup
 
-## What is HTML
+## What is CSS
 
-## Building the HTML
+## Building the CSS
 
 ## Example
